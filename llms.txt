@@ -6,7 +6,7 @@
 - Endereço: Av. Empresário Carlos da Silva Nogueira, 410, Jatiúca, Maceió/AL
 - Telefone/WhatsApp: (82) 9 9689-3313
 - Instagram: @Nativa_Wash
-- Avaliação: 5.0 estrelas, mais de 295 avaliações no Google
+- Avaliação: 5.0 estrelas, mais de 305 avaliações no Google
 - Áreas atendidas: Maceió, Marechal Deodoro, Paripueira, Barra de São Miguel
 
 ## Serviços
@@ -24,5 +24,5 @@
 - Formas de pagamento: cartão, dinheiro, Pix
 
 ## Contato
-Site: https://www.nativawash.com.br/
-WhatsApp: https://api.whatsapp.com/send?phone=5582996893313
+Site: https://nativa-wash.vercel.app/
+WhatsApp: https://wa.me/5582996893313
