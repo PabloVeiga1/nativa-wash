@@ -455,6 +455,13 @@ section{padding: 88px 0;}
 .final-cta-inner{position: relative; z-index:2; max-width: 620px; margin: 0 auto;}
 .final-cta h2{color: var(--white); font-size: clamp(1.7rem, 3.2vw, 2.4rem); margin-bottom: 16px;}
 .final-cta p{color: rgba(255,255,255,0.88); margin-bottom: 32px; font-size: 1.05rem;}
+.final-cta-actions{display:flex; justify-content:center; align-items:center; gap:14px; flex-wrap:wrap;}
+.btn-instagram{
+  background: linear-gradient(45deg, #F58529 0%, #DD2A7B 48%, #8134AF 75%, #515BD4 100%);
+  color: var(--white);
+  box-shadow: 0 8px 24px rgba(221,42,123,0.3);
+}
+.btn-instagram:hover{background: linear-gradient(45deg, #D96F16 0%, #C51F68 48%, #702B99 75%, #414BC0 100%); transform: translateY(-2px);}
 
 /* Footer */
 footer{
@@ -662,6 +669,31 @@ footer ul li a:hover{color: var(--white);}
   font-size: 0.92rem;
   color: var(--ink-soft);
 }
+.neighborhood-map {
+  margin-top: 40px;
+  display: grid;
+  grid-template-columns: 0.8fr 1.2fr;
+  gap: 28px;
+  align-items: stretch;
+  background: var(--blue-light);
+  border-radius: 20px;
+  overflow: hidden;
+}
+.neighborhood-map-info {
+  padding: 40px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.neighborhood-map-info h3 {font-size: 1.6rem; margin-bottom: 14px;}
+.neighborhood-map-info p {color: var(--ink-soft); margin-bottom: 18px;}
+.neighborhood-map-info address {font-style: normal; color: var(--blue-deep); font-weight: 600;}
+.neighborhood-map iframe {
+  width: 100%;
+  min-height: 320px;
+  height: 100%;
+  border: 0;
+}
 
 /* Responsive for Neighborhoods */
 @media (max-width: 900px) {
@@ -672,6 +704,8 @@ footer ul li a:hover{color: var(--white);}
   .neighborhood-highlight, .neighborhoods-list-card {
     padding: 30px 24px;
   }
+  .neighborhood-map {grid-template-columns: 1fr; gap: 0;}
+  .neighborhood-map-info {padding: 30px 24px;}
 }
 
 /* Active Nav Link (Scroll Spy) */

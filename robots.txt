@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://nativa-wash.vercel.app/sitemap.xml
