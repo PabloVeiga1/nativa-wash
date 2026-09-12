@@ -329,6 +329,8 @@ section{padding: 88px 0;}
   aspect-ratio: 4 / 3;
   margin: 0 auto;
 }
+.gallery-masonry a.gallery-image-full{aspect-ratio: 4 / 3;}
+.gallery-masonry a.gallery-image-full img{object-fit: contain; background: var(--white);}
 
 #resultados-que-falam-por-si img,
 .gallery-grid img,
