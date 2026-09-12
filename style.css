@@ -557,12 +557,17 @@ footer ul li a:hover{color: var(--white);}
 }
 
 @media (max-width: 560px){
+  .container{padding-left:16px; padding-right:16px;}
   .services-grid{grid-template-columns: 1fr;}
   .benefits-grid{grid-template-columns: 1fr 1fr;}
   .testimonial-grid{grid-template-columns: 1fr;}
   .footer-grid{grid-template-columns: 1fr;}
   .hero-ctas{flex-direction: column;}
-  .hero-ctas .btn{justify-content:center;}
+  .hero-ctas .btn,
+  .final-cta-actions .btn{width:100%; justify-content:center;}
+  .hero-trust{align-items:flex-start; flex-wrap:wrap; gap:6px 10px;}
+  .hero-photo-badge{font-size:0.78rem; padding:12px 14px;}
+  .neighborhood-map iframe{min-height:260px;}
   
   #resultados-que-falam-por-si .gallery-grid,
   .gallery-grid,
