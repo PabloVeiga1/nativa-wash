@@ -7,6 +7,7 @@
 - Telefone/WhatsApp: (82) 9 9689-3313
 - Instagram: @Nativa_Wash
 - Avaliação: 5.0 estrelas, mais de 305 avaliações no Google
+- Horário: domingo, 9h às 13h; segunda a sexta, 7h às 17h; sábado, 9h às 14h
 - Áreas atendidas: Maceió, Marechal Deodoro, Paripueira, Barra de São Miguel
 
 ## Serviços
@@ -26,3 +27,12 @@
 ## Contato
 Site: https://nativa-wash.vercel.app/
 WhatsApp: https://wa.me/5582996893313
+Google Maps: https://www.google.com/maps/search/?api=1&query=Nativa+Wash%2C+Av.+Empres%C3%A1rio+Carlos+da+Silva+Nogueira%2C+410%2C+Jati%C3%BAca%2C+Macei%C3%B3%2FAL
+
+## Páginas
+- Higienização de sofá: https://nativa-wash.vercel.app/higienizacao-de-sofa.html
+- Higienização de colchão: https://nativa-wash.vercel.app/higienizacao-de-colchao.html
+- Limpeza de tapetes: https://nativa-wash.vercel.app/limpeza-de-tapetes.html
+- Bairros atendidos: https://nativa-wash.vercel.app/bairros-atendidos.html
+- Cidades atendidas: https://nativa-wash.vercel.app/cidades-atendidas.html
+- Guias de limpeza: https://nativa-wash.vercel.app/blog.html

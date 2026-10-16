@@ -2,8 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://nativa-wash.vercel.app/</loc>
-    <lastmod>2026-09-11</lastmod>
-    <changefreq>monthly</changefreq>
+    <lastmod>2026-10-16</lastmod>
     <priority>1.0</priority>
   </url>
+  <url><loc>https://nativa-wash.vercel.app/higienizacao-de-sofa.html</loc><lastmod>2026-10-16</lastmod><priority>0.8</priority></url>
+  <url><loc>https://nativa-wash.vercel.app/higienizacao-de-colchao.html</loc><lastmod>2026-10-16</lastmod><priority>0.8</priority></url>
+  <url><loc>https://nativa-wash.vercel.app/limpeza-de-tapetes.html</loc><lastmod>2026-10-16</lastmod><priority>0.8</priority></url>
+  <url><loc>https://nativa-wash.vercel.app/bairros-atendidos.html</loc><lastmod>2026-10-16</lastmod><priority>0.7</priority></url>
+  <url><loc>https://nativa-wash.vercel.app/cidades-atendidas.html</loc><lastmod>2026-10-16</lastmod><priority>0.7</priority></url>
+  <url><loc>https://nativa-wash.vercel.app/blog.html</loc><lastmod>2026-10-16</lastmod><priority>0.7</priority></url>
+  <url><loc>https://nativa-wash.vercel.app/blog/como-tirar-manchas.html</loc><lastmod>2026-10-16</lastmod><priority>0.6</priority></url>
+  <url><loc>https://nativa-wash.vercel.app/blog/tempo-de-secagem.html</loc><lastmod>2026-10-16</lastmod><priority>0.6</priority></url>
+  <url><loc>https://nativa-wash.vercel.app/blog/frequencia-de-higienizacao.html</loc><lastmod>2026-10-16</lastmod><priority>0.6</priority></url>
 </urlset>
